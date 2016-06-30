@@ -1,7 +1,7 @@
 (
   fixedPage(
     theme = "flatly.css",
-    title = "BallR: Interactive NBA Shot Charts with R and Shiny",
+    title = "BallR: Interactive NHL Shot Charts with R and Shiny",
 
     tags$head(
       tags$link(rel = "apple-touch-icon", href = "basketball.png"),
