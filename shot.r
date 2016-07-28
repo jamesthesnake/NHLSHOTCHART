@@ -4,8 +4,8 @@
     title = "BallR: Interactive NHL Shot Charts with R and Shiny",
 
     tags$head(
-      tags$link(rel = "apple-touch-icon", href = "basketball.png"),
-      tags$link(rel = "icon", href = "basketball.png"),
+      tags$link(rel = "apple-touch-icon", href = "hockey.png"),
+      tags$link(rel = "icon", href = "hockey.png"),
       tags$link(rel = "stylesheet", type = "text/css", href = "shared/selectize/css/selectize.bootstrap3.css"),
       tags$link(rel = "stylesheet", type = "text/css", href = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css"),
       tags$link(rel = "stylesheet", type = "text/css", href = "custom_styles.css"),
